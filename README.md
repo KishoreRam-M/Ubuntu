@@ -142,15 +142,6 @@ It includes complete tutorials, cheat sheets, shell scripting, remote server acc
 5. ✅ Track your progress in the README
 6. 📤 Share your learning and projects
 
----
-
-## 🏅 Certifications Supported
-
-- 📜 [LPIC-1: Linux Administrator](https://www.lpi.org/)
-- 📜 [RHCSA: Red Hat Certified System Administrator](https://www.redhat.com)
-- 📜 [CompTIA Linux+](https://www.comptia.org/)
-
----
 
 ## 🤝 Contribute
 
