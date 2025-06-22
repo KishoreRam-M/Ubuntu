@@ -4,204 +4,157 @@
   <img src="https://img.shields.io/badge/Linux-Ultimate%20Course-brightgreen?style=for-the-badge&logo=linux" />
   <img src="https://img.shields.io/badge/Shell-Bash-blue?style=for-the-badge&logo=gnubash" />
   <img src="https://img.shields.io/badge/Skill-Level-Beginner--to--Pro-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/KishoreRam-M/Linux-Mastery?style=for-the-badge" />
 </p>
 
-> 🔥 Become a **Linux Power User** — from zero to job-ready — with this full-stack command-line and system administration roadmap.  
-> Learn by doing, use interview-style scenarios, visualize with diagrams, and get hands-on with every topic!
+> 🚀 **Master Linux from Zero to Advanced** with this one-of-a-kind, full-stack roadmap designed for tech interviews, real-world system administration, DevOps, and cybersecurity.  
+> ⚡ Build deep hands-on skills through real scenarios, cheat sheets, bash scripting, and diagrams — all in one place!
+
+---
+
+## 🔍 Description
+
+The **Ultimate Linux Mastery Roadmap** is a 12-module structured guide to mastering Linux for beginners, system administrators, DevOps engineers, and cybersecurity enthusiasts.  
+It includes complete tutorials, cheat sheets, shell scripting, remote server access, interview questions, and practice environments — all designed to help you crack **tech interviews**, pass **certifications**, and **level up your Linux skills**.
+
+**Keywords**: `Linux commands`, `bash scripting`, `Linux for interviews`, `Linux architecture`, `Ubuntu VM`, `system administration`, `DevOps`, `shell scripting`, `cron jobs`, `SSH`, `Linux certification`, `RHCSA`, `LPIC`, `Linux cheat sheet`
 
 ---
 
 ## 📚 Table of Contents
 
-1. [🟢 Module 1: Introduction to Linux & Unix](#🟢-module-1-introduction-to-linux--unix)
-2. [🔵 Module 2: Setting Up Linux for Practice](#🔵-module-2-setting-up-linux-for-practice)
-3. [🟣 Module 3: Linux Architecture & File System](#🟣-module-3-linux-architecture--file-system)
-4. [🟠 Module 4: Basic Linux Commands](#🟠-module-4-basic-linux-commands)
-5. [🟡 Module 5: Intermediate Command-Line Usage](#🟡-module-5-intermediate-command-line-usage)
-6. [🟤 Module 6: User, Group & Permission Management](#🟤-module-6-user-group--permission-management)
-7. [🔴 Module 7: Process & System Management](#🔴-module-7-process--system-management)
-8. [🟢 Module 8: Package Management](#🟢-module-8-package-management)
-9. [🔵 Module 9: Environment Variables & Shell Basics](#🔵-module-9-environment-variables--shell-basics)
-10. [🟣 Module 10: Shell Scripting (Beginner to Advanced)](#🟣-module-10-shell-scripting-beginner-to-advanced)
-11. [🟠 Module 11: Accessing Remote Linux & File Transfer](#🟠-module-11-accessing-remote-linux--file-transfer)
-12. [🟡 Module 12: Top Linux Commands for Interviews](#🟡-module-12-top-linux-commands-for-interviews)
+1. [🟢 Module 1: Introduction to Linux & Unix](#module-1)
+2. [🔵 Module 2: Setting Up Linux for Practice](#module-2)
+3. [🟣 Module 3: Linux Architecture & File System](#module-3)
+4. [🟠 Module 4: Basic Linux Commands](#module-4)
+5. [🟡 Module 5: Intermediate Command-Line Usage](#module-5)
+6. [🟤 Module 6: User, Group & Permission Management](#module-6)
+7. [🔴 Module 7: Process & System Management](#module-7)
+8. [🟢 Module 8: Package Management](#module-8)
+9. [🔵 Module 9: Environment Variables & Shell Basics](#module-9)
+10. [🟣 Module 10: Shell Scripting (Beginner to Advanced)](#module-10)
+11. [🟠 Module 11: Accessing Remote Linux & File Transfer](#module-11)
+12. [🟡 Module 12: Top Linux Commands for Interviews](#module-12)
 
 ---
 
-## 🟢 Module 1: Introduction to Linux & Unix
+## 🧠 Who Is This For?
 
-- ✅ What is Linux?
-- ✅ What is Unix?
-- 🔁 **Unix vs Linux** (Visual comparison chart)
-- 🧩 Linux Distributions: Ubuntu, CentOS, Debian, Kali, Fedora
-- 🌐 Real-world usage:
-  - Servers & Hosting
-  - Mobile OS (Android)
-  - DevOps & Cloud
-  - Cybersecurity Tools
+✅ **Beginners** who want to start with Linux the right way  
+✅ **College students** preparing for tech interviews  
+✅ **DevOps & SysAdmins** needing automation/scripting  
+✅ **Cybersecurity aspirants** learning Linux tools  
+✅ **Professionals preparing for certifications** (RHCSA, LPIC, CompTIA Linux+)
 
 ---
 
-## 🔵 Module 2: Setting Up Linux for Practice
+## 🛠️ What's Inside
 
-- 📦 What is Virtualization?
-- 💻 What is Oracle VirtualBox?
-- 🧰 Installing VirtualBox on Windows/Linux
-- 🛠️ Creating a Virtual Machine (Ubuntu recommended)
-- 📀 Installing Ubuntu/Linux on VM
-- 🌀 Snapshots & Restore
-- 🧱 Resize screen, configure network & folders
-- 🔌 Accessing Linux:
-  - Via Terminal (GUI)
-  - Via PuTTY/WinSCP (CLI from Windows)
-  - With **WSL** on Windows 10/11
+### 🟢 Module 1: Introduction to Linux & Unix
+- Differences between Unix & Linux
+- Distributions and use cases
+- Real-world applications: Servers, Cloud, DevOps, Hacking
 
----
+### 🔵 Module 2: Setup for Practice
+- VirtualBox + Ubuntu VM installation
+- Windows Subsystem for Linux (WSL)
+- Using Terminal, PuTTY, and WinSCP
 
-## 🟣 Module 3: Linux Architecture & File System
+### 🟣 Module 3: Linux Architecture
+- Kernel, Shell, User Space
+- Boot Process
+- Filesystem hierarchy
 
-- ⚙️ Linux Architecture: Kernel, Shell, User Space
-- 🔁 Linux Boot Process (BIOS ➜ GRUB ➜ Kernel ➜ Shell)
-- 📁 Filesystem Hierarchy:
-  - `/root`, `/home`, `/etc`, `/var`, `/bin`, `/usr`, `/tmp`
-- 🔐 File & Directory Permissions (`r`, `w`, `x`)
-- 👤 File Ownership: Users, Groups
+### 🟠 Module 4: Basic Commands
+- `ls`, `cd`, `mkdir`, `cp`, `rm`, `mv`
+- File viewing tools: `cat`, `less`, `tail`
+- File operations & symbolic links
 
----
+### 🟡 Module 5: Intermediate Usage
+- Searching: `find`, `grep`, `locate`
+- Text manipulation: `awk`, `cut`, `sort`
+- Compression & Disk Usage
 
-## 🟠 Module 4: Basic Linux Commands
+### 🟤 Module 6: User/Group Management
+- `useradd`, `passwd`, `chmod`, `chown`
+- File permission concepts: 755, 644
+- `umask`, groups, access control
 
-- 📄 Navigation & File Ops:
-  - `ls`, `pwd`, `cd`, `mkdir`, `touch`, `rm`, `cp`, `mv`, `clear`
-- 📝 Viewing File Content:
-  - `cat`, `less`, `more`, `nl`, `head`, `tail`
-- 🧱 File Tasks: Create, Rename, Delete
-- 🔗 Links:
-  - Hard Links vs Symbolic Links (`ln`, `ln -s`)
+### 🔴 Module 7: Process & System
+- `top`, `ps`, `kill`, `nice`
+- System monitoring: `free`, `uptime`, `vmstat`
+- Scheduling: `cron`, `at`
 
----
+### 🟢 Module 8: Package Management
+- APT commands: install, update, upgrade
+- Manual `.deb` installation
+- `wget`, `curl`, repo management
 
-## 🟡 Module 5: Intermediate Command-Line Usage
+### 🔵 Module 9: Shell & Env
+- Bash/Zsh differences
+- Environment variables: `export`, `.bashrc`
+- Shell shortcuts: `!!`, `Ctrl+R`
 
-- 🔎 File Search:
-  - `find`, `locate`, `which`, `whereis`
-- 🔤 Text Processing:
-  - `grep`, `sort`, `wc`, `awk`, `cut`
-- 📦 Compression:
-  - `tar`, `zip`, `gzip`, `unzip`
-- 💽 Disk Usage:
-  - `df -h`, `du -sh`, `lsblk`
+### 🟣 Module 10: Shell Scripting
+- Variables, conditions, loops, functions
+- Bash arguments: `$@`, `$#`, `$1`
+- Task automation and error handling
 
----
+### 🟠 Module 11: Remote Linux & Transfer
+- `ssh`, `scp`, `rsync`, key-based access
+- Working from Windows (PuTTY, WinSCP)
+- Working with WSL (Linux in Windows)
 
-## 🟤 Module 6: User, Group & Permission Management
-
-- 👥 User/Group Management:
-  - `useradd`, `groupadd`, `passwd`
-- 🔐 Permissions:
-  - `chmod`, `chown`, `chgrp`
-- ⚙️ File Permissions:
-  - User | Group | Others (e.g. `chmod 755 file`)
-- 🛠️ `umask` & default permission configuration
-
----
-
-## 🔴 Module 7: Process & System Management
-
-- 📋 Viewing Processes:
-  - `ps`, `top`, `htop`
-- 🔧 Managing Processes:
-  - `kill`, `killall`, `nice`, `renice`, `nohup`
-- 🖥️ System Info:
-  - `uptime`, `free`, `vmstat`, `iostat`
-- 📆 Scheduled Tasks:
-  - `cron`, `crontab`, `at`
+### 🟡 Module 12: Interview Commands
+- Top 50 commands cheat sheet
+- Real-world Linux exercises
+- Permissions, backups, monitoring, troubleshooting
 
 ---
 
-## 🟢 Module 8: Package Management
+## 🎯 Roadmap Goals
 
-- 📦 APT Package Manager:
-  - `apt-get install`, `remove`, `update`, `upgrade`
-- 🌍 Downloading Files:
-  - `wget`, `curl`
-- 📥 Installing `.deb` packages manually
-- 📚 Understanding APT sources & repositories
-
----
-
-## 🔵 Module 9: Environment Variables & Shell Basics
-
-- 🐚 What is a Shell? (Bash vs Zsh)
-- 🌍 Environment Variables:
-  - Local vs Global (`export`, `.bashrc`, `.profile`)
-- ⌨️ Useful Shell Shortcuts: `Ctrl + R`, `!!`, `!$`
-- 📂 Understanding `PATH` and custom binary paths
+- ✅ Master Linux CLI, system tools, and internals
+- ✅ Learn bash scripting from zero to pro
+- ✅ Crack Linux system admin/DevOps interviews
+- ✅ Build a strong Linux project portfolio on GitHub
+- ✅ Practice hands-on with daily challenges
 
 ---
 
-## 🟣 Module 10: Shell Scripting (Beginner to Advanced)
+## 📝 Prerequisites
 
-- 🖊️ First Bash Script
-- 📥 Variables & Operators
-- 🔀 Conditions: `if`, `else`, `elif`
-- 🔁 Loops: `for`, `while`, `until`
-- 🧠 Functions in Bash
-- 🗃️ Script Arguments: `$1`, `$@`, `$#`, `$?`, etc.
-- 🤖 Automate tasks using Bash
+> Don't worry if you're a beginner — this course starts from scratch.
 
----
-
-## 🟠 Module 11: Accessing Remote Linux & File Transfer
-
-- 🔐 SSH Basics: `ssh user@ip`
-- 🔑 Key-based Authentication
-- 🧳 File Transfers:
-  - `scp`, `rsync`
-- 🪟 Using **PuTTY** and **WinSCP** on Windows
-- 💻 Using **WSL** for local Linux CLI
+- Basic Computer Usage
+- Familiarity with Terminal (optional)
+- OS: Windows, Mac, or Linux
+- Recommended: Install [VirtualBox](https://www.virtualbox.org/) and [Ubuntu](https://ubuntu.com/download/desktop)
 
 ---
 
-## 🟡 Module 12: Top Linux Commands for Interviews
+## 🚀 How to Use This Repo
 
-- 🧾 Top 50 Linux Commands Cheat Sheet
-- ❓ Frequently Asked CLI Questions in Interviews
-- 🔍 Practical Exercises:
-  - Create users
-  - Monitor system
-  - Find large files
-  - Schedule backups
-  - Troubleshoot permissions
+1. ⭐ Star this repo
+2. ⬇️ Clone or download it locally
+3. 🔖 Go through each module in order
+4. 💡 Run the shell scripts & complete exercises
+5. ✅ Track your progress in the README
+6. 📤 Share your learning and projects
 
 ---
 
-## 💡 Bonus Tips
+## 🏅 Certifications Supported
 
-- ✅ Add Quizzes After Each Module (via Quiz.md)
-- ✅ Use Daily Practice Files (practice.sh)
-- ✅ Prepare for Certifications:
-  - `LPIC-1`, `RHCSA`, `CompTIA Linux+`
-- ✅ Use [LinuxJourney.com](https://linuxjourney.com) for hands-on tutorials
-- ✅ Create a GitHub repo and document your learning as a portfolio
+- 📜 [LPIC-1: Linux Administrator](https://www.lpi.org/)
+- 📜 [RHCSA: Red Hat Certified System Administrator](https://www.redhat.com)
+- 📜 [CompTIA Linux+](https://www.comptia.org/)
 
 ---
 
-## 🌟 Contribute
+## 🤝 Contribute
 
-Want to add tips, diagrams, or extra modules?  
-Fork this repo, create a new branch, and submit a PR 🚀
+Want to improve this roadmap or add your Linux insights?
 
----
-
-## 🧠 Inspired By:
-
-- [Linux Handbook](https://linuxhandbook.com)
-- [OverTheWire](https://overthewire.org/wargames/)
-- [Linux Journey](https://linuxjourney.com)
-- [DigitalOcean Docs](https://www.digitalocean.com/community/tutorials)
-
----
-
-📢 **Star this repo** if it helped you — and happy hacking! 🐧💻
-
+```bash
+Fork → Create Branch → Commit → Pull Request
