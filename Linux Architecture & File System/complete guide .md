@@ -1,7 +1,6 @@
 # 🚀 Mastering Linux Architecture & File System (Module 3)
 
-> 📌 **Optimized for Gemini 2.5 Flash**
-> 📌 **SEO-optimized keywords included**
+
 > 📌 **Data from trusted sources:** Official docs, Red Hat, Ubuntu, Linux Foundation, GeeksforGeeks, YouTube: The Linux Foundation, TechWorld with Nana, NetworkChuck, DorianDotSlash
 
 -----
